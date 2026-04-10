@@ -11,20 +11,21 @@ I've probably broken it at least once.
 <br>
 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M3st4r1&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3st4r1&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=M3st4r1&hide_border=true&mode=weekly" alt="GitHub Streak" />
 </p>
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3st4r1&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
 Contact
-Feel free to reach out or follow my work:
+Feel free to reach out:
 
 🐙 GitHub: @M3st4r1
+Discord: @M3st4r1
 
 <br>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=M3st4r1.M3st4r1" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=M3st4r1&style=flat-square&color=grey" alt="Profile views" />
 </p>
 
 <!--
