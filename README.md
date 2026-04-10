@@ -9,7 +9,8 @@ if it involves GDScript, C#, or Blender, I've probably broken it at least once.
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=M3st4r1&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
-## Contact
+
+## Contacts
 Feel free to reach out:
 
 🐱 GitHub: @M3st4r1
