@@ -12,8 +12,9 @@ if it involves GDScript, C#, or Blender, I've probably broken it at least once.
 ## Contact
 Feel free to reach out:
 
-🐙 GitHub: @M3st4r1
-Discord: @M3st4r1
+🐱 GitHub: @M3st4r1
+
+🎮 Discord: @M3st4r1
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=M3st4r1&style=flat-square&color=grey" alt="Profile views" />
 </p>
