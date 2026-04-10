@@ -7,11 +7,12 @@ a truck mod for a Unity-based vehicle game. If it involves GDScript, C#, or Blen
 I've probably broken it at least once.
 ## GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=M3st4r1&hide_border=true&mode=weekly" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=M3st4r1&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3st4r1&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
+
 ## Contact
 Feel free to reach out:
 
