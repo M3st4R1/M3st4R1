@@ -1,18 +1,16 @@
-#Hey, I'm M3st4r1 👋
+# Hey, I'm M3st4r1 👋
 
 Modder, tinkerer, and hobbyist dev — turning games into sandboxes.
 
 &nbsp;
 
-##About
+## About
 I spend my time reverse-engineering games, building mods, and poking at engines.
 Currently hacking on a co-op multiplayer mod for Road to Vostok (Godot 4) and
 a truck mod for a Unity-based vehicle game. If it involves GDScript, C#, or Blender —
 I've probably broken it at least once.
 
-&nbsp;
-
-##GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=M3st4r1&hide_border=true&mode=weekly" alt="GitHub Streak" />
 </p>
@@ -20,15 +18,11 @@ I've probably broken it at least once.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3st4r1&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
-&nbsp;
-
-##Contact
+## Contact
 Feel free to reach out:
 
 🐙 GitHub: @M3st4r1
 Discord: @M3st4r1
-
-&nbsp;
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=M3st4r1&style=flat-square&color=grey" alt="Profile views" />
